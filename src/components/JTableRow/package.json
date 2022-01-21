@@ -1,5 +1,5 @@
 {
-  "name": "@iberpay/j-table-row",
+  "name": "@jmoreno.valle/j-table-row",
   "version": "0.0.0",
   "publishConfig": {
     "access": "public"
